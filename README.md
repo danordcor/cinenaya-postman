@@ -1,5 +1,5 @@
 # cinenaya-postman
-This collection is related to the cinema management system, here you have requests for authentication, managing cinemas, movies, reservations, and more.
+This collection is related to the [cinema management system](https://github.com/danordcor/cinenaya), here you have requests for authentication, managing cinemas, movies, reservations, and more.
 
 Each item in the collection represents a different API request along with its associated details such as request method, headers, body, and URL. Tests are also defined for some requests to handle the responses and set environment variables. Here's a breakdown of the main components of your collection:
 
